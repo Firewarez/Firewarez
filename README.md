@@ -1,9 +1,9 @@
 ## Just a little programmer
 
 <div align="center">
-  <a href="https://github.com/LViniciusk">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LViniciusk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LViniciusk&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Firewarez">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Firewarez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firewarez&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
   </div>
