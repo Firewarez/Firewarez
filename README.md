@@ -1,5 +1,5 @@
 ## Dev Full Stack
-Estudante de Ciências da Computação aplicando meu conhecimento em projetos Web responsivos 
+Freelancer FullStack aplicando meu conhecimento em projetos Web responsivos e desenvolvimento de aplicações 
 
 
 <div style="display: inline_block"><br>
