@@ -39,3 +39,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+---
+
+Conheça alguns dos meus projetos
+- <a href="https://unpnews.com">Unpnews</a>
+- <a href="https://github.com/Firewarez">Portfolio</a>
