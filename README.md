@@ -1,19 +1,20 @@
-## Dev Full Stack
-Freelancer FullStack aplicando meu conhecimento em projetos Web responsivos e desenvolvimento de aplicações 
+### Arthur Barcelos
+Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicações intuitivas e seguras.
+- Freelancer em desenvolvimento FullStack
+- Graduando em Ciência da Computação
 
-
-<div style="display: flex; justify-content: center;"><br>
-  <p>Frontend:</p>
-  <img align="center" alt="HTML" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+<div style="display: flex;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Firewarez&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firewarez&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="400" height="167">
+  </div>
+  <div>
   <img align="center" alt="JS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
-  
-  <p>Langs:</p>
+  <br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -25,19 +26,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Java" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+  </div>
   
-  IT Tecnologies: 
-  <br>
-  <img align="center" alt="Git" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
-<img align="center" alt="Wordpress" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg">
-<img align="center" alt="Github" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
+  
 </div>
 
-##
+---
 
-<div> 
+**Meus links**
+
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
