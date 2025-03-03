@@ -10,6 +10,7 @@ Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicaçõe
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firewarez&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="400" height="167">
   </div>
   <div>
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="JS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
