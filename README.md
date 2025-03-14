@@ -43,4 +43,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 
 Conheça alguns dos meus projetos
 - <a href="https://unpnews.com">Unpnews</a>
-- <a href="https://github.com/Firewarez">Portfolio</a>
+- <a href="https://arthurbarcelosportfolio.netlify.app/">Portfolio</a>
