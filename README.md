@@ -14,7 +14,7 @@ Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicaçõe
   <img align="center" alt="JS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
   <br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" 
