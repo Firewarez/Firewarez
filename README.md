@@ -2,6 +2,10 @@
 Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicações intuitivas e seguras.
 - Freelancer em desenvolvimento FullStack
 - Graduando em Ciência da Computação
+---
+
+1 ano desenvolvendo aplicações eficientes e dinâmicas aplicando metodologias ágeis para um ambiente de desenvolvimento monitorado e seguro
+Foco em desenvolvimento com Angular, React e Vue.js, construindo microsserviços com Spring boot
 
 ---
 <div style="display: flex;">
