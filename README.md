@@ -2,12 +2,20 @@
 
 ###
 
-<p align="left">Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicações intuitivas e seguras.<br>- Freelancer em desenvolvimento FullStack<br>- Graduando em Ciência da Computação</p>
+Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicações intuitivas e seguras.
+- Freelancer em desenvolvimento FullStack
+- Graduando em Ciência da Computação
 
 ###
 
 <p align="left">1 ano desenvolvendo aplicações eficientes e dinâmicas aplicando metodologias ágeis para um ambiente de desenvolvimento monitorado e seguro<br>Entusiasta em DevOps. Foco em trabalho em equipe, criatividade e comunicação em ambiente de trabalho.</p>
 
+### 🚀 Tech Stack
+- 💻 Languages: JavaScript, TypeScript, Python, Java, C
+- 🌐 Backend: Spring, RESTful APIs
+- 🗄️ Database: MySQL, PostgreSQL
+- ⚙️ DevOps: Docker, GitHub Actions
+- 🎨 Frontend: React, Vue, Angular
 ---
 
 <div align="center">
