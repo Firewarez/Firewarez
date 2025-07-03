@@ -12,7 +12,7 @@ Desenvolvedor web fullstack apaixonado por tecnologia. Entusiasta em aplicaçõe
 
 ### 🚀 Tech Stack
 - 💻 Languages: JavaScript, TypeScript, Python, Java, C
-- 🌐 Backend: Spring, RESTful APIs
+- 🌐 Backend: Spring, Nodejs, PHP
 - 🗄️ Database: MySQL, PostgreSQL
 - ⚙️ DevOps: Docker, GitHub Actions
 - 🎨 Frontend: React, Vue, Angular
